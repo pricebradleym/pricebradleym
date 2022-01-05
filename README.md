@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pricebradleym
-- 👀 I’m interested in ...making new friends, traveling the world, whiskey and Italian food!
+- 👀 I’m interested in ...making new friends, traveling the world, running, whiskey and Italian food!
 - 🌱 I’m currently learning ...responsive web design and JavaScript algorithms and data structures from freeCodeCamp
 - 📫 How to reach me ...price.bradleym@gmail.com
 
